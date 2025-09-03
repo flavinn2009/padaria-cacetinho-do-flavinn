@@ -7,8 +7,8 @@
 body {
   font-family: 'Segoe UI', sans-serif;
   line-height: 1.6;
-  color: #333;
-  background-color: #fff0f0;
+  color: #dd3636;
+  background-color: #ce156b;
 }
 
 .container {
@@ -18,8 +18,8 @@ body {
 }
 
 header {
-  background: #4e342e;
-  color: rgb(255, 255, 255);
+  background: #db0a0a;
+  color: rgb(233, 224, 224);
   padding: 10px 0;
 }
 
@@ -59,7 +59,7 @@ nav a {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: rgb(255, 255, 255);
+  color: rgb(138, 118, 118);
   background: rgba(0, 0, 0, 0.5);
   padding: 20px;
   border-radius: 10px;
@@ -67,7 +67,7 @@ nav a {
 
 .sobre {
   padding: 50px 0;
-  background-color: #fff;
+  background-color: #991e1e;
 }
 
 .conteudo-sobre {
